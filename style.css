@@ -1,0 +1,54 @@
+body {
+	font-family: 'Crimson Text', serif;
+}
+
+header {
+	border: 1px solid black;
+	background-color: yellow;
+}
+
+.antes {
+	width: 160px;
+	height: 500px;
+	border: 1px solid black;
+	position: relative;
+	left: 0;
+	padding: 2em;
+	background-image: url(monoantiguo.jpg);
+	background-size: 30%;
+	background-repeat: no-repeat;
+}
+
+.monopoly {
+	width: 160px;
+	height: 500px;
+	border: 1px solid black;
+	position: relative;
+	left: 15em;
+	bottom: 35em;
+	padding: 2em;
+	
+}
+
+.ahora {
+	width: 160px;
+	height: 500px;
+	border: 1px solid black;
+	position: relative;
+	left: 30em;
+	bottom: 70em;
+	padding: 2em;
+	background-image: url(monopoly.jpg);
+	background-size: 30%;
+	background-repeat: no-repeat;
+
+}
+	
+
+
+.pie {
+	border: 1px solid black;
+	background-color: yellow;
+	position: relative;
+	bottom: 70em;
+}
